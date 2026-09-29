@@ -1,4 +1,4 @@
-const PREFIX = "/xk29-my-secret"; // замените на свой набор букв и цифр
+const PREFIX = "/prox-7k3q9x"; // замените на свой набор букв и цифр
 
 Deno.serve(async (request) => {
   const url = new URL(request.url);
